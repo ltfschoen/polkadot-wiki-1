@@ -508,6 +508,7 @@ entities.
 - [Polkadot Direction](https://matrix.to/#/#Polkadot-Direction:parity.io)
 - [Kusama Direction](https://matrix.to/#/#Kusama-Direction:parity.io)
 - [Polkassembly](https://polkadot.polkassembly.io/)
+- [Subsquare](https://polkadot.subsquare.io/)
 
 ---
 
